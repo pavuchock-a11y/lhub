@@ -42,7 +42,7 @@ h1, h2, #question-text {
     display: flex;
     justify-content: space-between;
     font-weight: bold;
-    font-family: 'Rubik', sans-serif;
+
 }
 
 .hide {
